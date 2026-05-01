@@ -1,0 +1,24 @@
+.cover-area-container {
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cover-area-areas {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cover-area-map {
+  margin-top: 15px;
+  width: 88%;
+  height: 44%;
+  background-color: #fff;
+  border: 1px solid #141414;
+  border-radius: 10px;
+}
