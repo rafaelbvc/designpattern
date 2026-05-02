@@ -6,7 +6,12 @@
 }
 
 .main-services-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   width: 25%;
   height: 100%;
   border: 1px solid #141414;
+  font-size: 0.8rem;
 }

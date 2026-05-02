@@ -14,4 +14,14 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.main-banner-conforto {
+  margin-left: 20px;
+  font-size: 0.76rem;
+  font-weight: bold;
+  color: gold;
 }

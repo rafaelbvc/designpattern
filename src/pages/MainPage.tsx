@@ -7,7 +7,6 @@ import MainServices from "../components/mainServices/MainServices";
 import Navbar from "../components/navbar/Navbar";
 import SubServices from "../components/subServices/SubServices";
 import WhatsAppSection from "../components/whatsAppSection/WhatsAppSection";
-import Airplane from "../svgs/airplane";
 
 const MainPage = () => {
   return (
@@ -21,7 +20,6 @@ const MainPage = () => {
       <CoverArea />
       <WhatsAppSection />
       <Footer />
-      <Airplane svgWidth="50px" svgHeight="50px" svgFillColor="#fff" />
     </>
   );
 };
