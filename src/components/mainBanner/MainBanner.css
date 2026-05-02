@@ -14,9 +14,15 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+.main-banner-sub-container {
+  width: 100%;
+  height: 100%;
   display: flex;
-  justify-content: left;
-  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .main-banner-conforto {
@@ -24,4 +30,26 @@
   font-size: 0.76rem;
   font-weight: bold;
   color: gold;
+}
+
+.main-banner-destino {
+  margin-left: 20px;
+  margin-top: 10px;
+  font-size: 1.76rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.main-banner-prioridade {
+  margin-left: 20px;
+  margin-bottom: 10px;
+  font-size: 1.76rem;
+  font-weight: bold;
+  color: gold;
+}
+
+.main-banner-motorista {
+  margin-left: 20px;
+  font-size: 0.76rem;
+  color: #fff;
 }
