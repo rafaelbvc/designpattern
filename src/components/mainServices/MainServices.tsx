@@ -8,19 +8,19 @@ const MainServices = () => {
   return (
     <div className="main-services-container">
       <div className="main-services-card">
-        <ClockLines svgWidth="50px" svgHeight="50px" svgFillColor="gold" />
+        <ClockLines svgWidth="40px" svgHeight="40px" svgFillColor="gold" />
         <span>24h</span>
       </div>
       <div className="main-services-card">
-        <Car svgWidth="50px" svgHeight="50px" svgFillColor="gold" />
+        <Car svgWidth="40px" svgHeight="40px" svgFillColor="gold" />
         <span>Viagens</span>
       </div>
       <div className="main-services-card">
-        <Airplane svgWidth="50px" svgHeight="50px" svgFillColor="gold" />
+        <Airplane svgWidth="40px" svgHeight="40px" svgFillColor="gold" />
         <span>Aeroportos</span>
       </div>
       <div className="main-services-card">
-        <ShieldCheck svgWidth="50px" svgHeight="50px" svgFillColor="gold" />
+        <ShieldCheck svgWidth="40px" svgHeight="40px" svgFillColor="gold" />
         <span>Executivo</span>
       </div>
     </div>

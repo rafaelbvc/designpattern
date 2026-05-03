@@ -1,6 +1,6 @@
 .main-banner-container {
   width: 100%;
-  height: 76vh;
+  height: 56vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,7 +27,7 @@
 
 .main-banner-conforto {
   margin-left: 20px;
-  font-size: 0.76rem;
+  font-size: 0.8rem;
   font-weight: bold;
   color: gold;
 }
@@ -35,7 +35,7 @@
 .main-banner-destino {
   margin-left: 20px;
   margin-top: 10px;
-  font-size: 1.76rem;
+  font-size: 1.8rem;
   font-weight: bold;
   color: #fff;
 }
@@ -43,13 +43,13 @@
 .main-banner-prioridade {
   margin-left: 20px;
   margin-bottom: 10px;
-  font-size: 1.76rem;
+  font-size: 1.8rem;
   font-weight: bold;
   color: gold;
 }
 
 .main-banner-motorista {
   margin-left: 20px;
-  font-size: 0.76rem;
+  font-size: 0.8rem;
   color: #fff;
 }
